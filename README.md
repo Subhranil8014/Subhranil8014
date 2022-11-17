@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Subhranil Midya
 - 👀 Looking for roles to explore and enhance my technical knowledge!
 - 🌱 I’m currently learning Core java , Springboot , etc  .
-- 💻 I’m currently Working in Nagarro..
+- 💻 I’m currently Working in a Digital engineering leader organisation as software engineer.
 - 📫 www.linkedin.com/in/subhranil-midya
 
 <!---
